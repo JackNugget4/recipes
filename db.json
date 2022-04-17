@@ -1,0 +1,18 @@
+{
+  "Recipes": [
+    {
+      "id": 2,
+      "text": "Steak",
+      "ingredients": "oil",
+      "country": "United States",
+      "Favorite": true
+    },
+    {
+      "text": "Spegetti",
+      "ingredients": "Pasta, water, oil, tomato",
+      "country": "Italy",
+      "Favorite": true,
+      "id": 3
+    }
+  ]
+}
